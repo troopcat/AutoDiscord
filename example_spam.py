@@ -1,5 +1,4 @@
 import AutoDiscord
-from time import sleep
 
 client = AutoDiscord.Client()
 
@@ -11,7 +10,6 @@ while True:
         
         if client.getLocation("chill.PNG"):
         	client.chill()
-        	sleep(5)
 
     except AutoDiscord.GuiDoesNotExists:
         break
