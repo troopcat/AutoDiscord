@@ -1,6 +1,6 @@
 # AutoDiscord
 Automating discord gui
 
-#API
+# API
 
 `foreGroundDiscord()`
