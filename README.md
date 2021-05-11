@@ -1,0 +1,2 @@
+# AutoDiscord
+Automating discord gui
