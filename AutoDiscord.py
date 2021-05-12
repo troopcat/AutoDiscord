@@ -128,7 +128,7 @@ class Client():
         self.click("maximize.PNG")
 
     def home(self):
-        self.click("home.PNG", 1, 0.7)
+        self.click("home.PNG", confidence=0.7)
 
     def mute(self):
         self.click("unmuted.PNG")
@@ -143,7 +143,7 @@ class Client():
         self.click("deaf.PNG")
 
     def chill(self):
-        self.click("chill.PNG", 1, 0.7)
+        self.click("chill.PNG", confidence=0.7)
 
     def joinLive(self):
         self.click("live.PNG", 2, 0.9)
