@@ -60,3 +60,12 @@ Clicks Discord's undead button
 
 `chill()`
 Clicks Discord's chill button(appears when too much messages send, spam protection button)
+
+`joinLive()`
+Clicks live icon 2 times
+
+`acceptNitro()`
+Accepts nitro gift
+
+`disconnect()`
+Leaves call
